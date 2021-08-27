@@ -1,0 +1,19 @@
+baseURL = "https://cjcodes.com/"
+languageCode = "en-us"
+title = "cjcodes"
+theme = "PaperMod"
+
+[params]
+  disableHLJS = true
+  twitter = 'cjcodes'
+  hideSummary = true
+
+  [params.homeInfoParams]
+    Title = ""
+    Content = """
+aka. chris johnson
+===
+- software engineer turned manager &nbsp;&nbsp;[twilio](https://twilio.com)
+- technical strategist &nbsp;&nbsp;[whole whale](https://wholewhale.com)
+- founding cto &nbsp;&nbsp;[crisis text line](https://crisistextline.org)
+"""

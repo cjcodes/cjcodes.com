@@ -1,0 +1,23 @@
+.profile img {
+  border-radius: 0;
+}
+
+.home-info {
+  text-align: center;
+}
+
+.home-info img {
+  margin: 0 auto;
+}
+
+.home-info .entry-header h1 {
+  display: block;
+  margin: 0 auto;
+  width: 217px;
+  height: 60px;
+  background: url('/logo-black.png');
+}
+
+.dark .home-info .entry-header h1 {
+  background: url('/logo-white.png');
+}
