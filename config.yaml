@@ -3,7 +3,7 @@ languageCode: en-us
 title: cjcodes
 theme: PaperMod
 disqusShortname: cjcodes-com
-googleAnalytics: G-582DHX9VVT
+googleAnalytics: UA-206126234-1
 enableGitInfo: true
 markup:
   goldmark:
