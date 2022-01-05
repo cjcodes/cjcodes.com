@@ -4,15 +4,29 @@ title: cjcodes
 theme: PaperMod
 disqusShortname: cjcodes-com
 googleAnalytics: G-582DHX9VVT
+enableGitInfo: true
+markup:
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true
 
 menu:
   main:
     - identifier: posts
       name: posts
       url: /posts/
+    - identifier: manager-docs
+      name: manager docs
+      url: /manager-docs/
 
 params:
   hideSummary: true
+  dateFormat: 2006-01-02
+  ShowBreadCrumbs: true
+  hideFooter: true
+  mainSections:
+
 
   socialIcons:
     - name: linkedin

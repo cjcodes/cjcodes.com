@@ -1,7 +1,14 @@
 {{- $scratch := newScratch }}
 
 {{- if not .Date.IsZero -}}
-{{- $scratch.Add "meta" (slice (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat))) }}
+{{- $content := printf "Published: %s" (.Date.Format (default "January 2, 2006" .Site.Params.DateFormat)) }}
+{{- $scratch.Add "meta" (slice ($content)) }}
+{{- end }}
+
+<!-- If we have a last-modified date and it's not equal to the publish date -->
+{{- if and (not .Lastmod.IsZero) (or (ne (.Date.Year) (.Lastmod.Year)) (ne (.Date.YearDay) (.Lastmod.YearDay))) -}}
+{{- $content := printf "Updated: %s" (.Lastmod.Format (default "January 2, 2006" .Site.Params.DateFormat)) }}
+{{- $scratch.Add "meta" (slice ($content)) }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}
