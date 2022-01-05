@@ -4,6 +4,7 @@ date: 2021-12-28T11:33:56-08:00
 draft: false
 ShowToc: true
 changelog:
+- 2022-01-05: Fixed some grammar issues and an off-by-one counting error in a list.
 - 2021-12-28: Created.
 ---
 
@@ -74,7 +75,7 @@ The next rule, and I cannot overstate the important of this one:
 
 > **Thank the feedback giver.**
 
-No matter what. Even if they just told you something that you completely, utterly disagree with, thank them. You can express your disagreement either in how you choose to act (or not act) on the feedback. Feedback is **not** an interaction where there's a winner and a loser. Getting the last word in after receiving feedback devalues the feedback you just received and turns feedback into a confrontation, whether you mean it to be or not, and I can guarantee that that person will never want to give you feedback again. Take the feedback, commit to processing it, and move on.
+No matter what. Even if they just told you something that you completely, utterly disagree with, thank them. You can express your disagreement in how you choose to act (or not act) on the feedback. Feedback is **not** an interaction where there's a winner and a loser. Getting the last word in after receiving feedback devalues the feedback you just received and turns feedback into a confrontation, whether you mean it to be or not, and I can guarantee that that person will never want to give you feedback again. Take the feedback, commit to processing it, and move on.
 
 You are, however, allowed to ask questions! But ask questions that clarify your understanding of the other person's perspective.
 
@@ -97,7 +98,7 @@ When I'm doing my job well, you should know when feedback is performance-oriente
 Okay, so put another blunt way: you should always know when feedback is "your job is on the line" versus "you could have done even better if." And if that's not clear, *ask*.
 
 ### What if you disagree with your manager's feedback?
-This is an interesting one to discuss. Let's start from the framing above of feedback as a method of communicating a difference in perspective. When you disagree with your manager's performance feedback, you're stating a difference in perspective, usually on the same outcomes. I'll give you two tools to use when you disagree with feedback:
+This is an interesting one to discuss. Let's start from the framing above of feedback as a method of communicating a difference in perspective. When you disagree with your manager's performance feedback, you're stating a difference in perspective, usually on the same outcomes. I'll give you some tools to use when you disagree with feedback:
 
 #### 1. Reframe on outcomes
 First, if it's not clear, have a conversation about the outcomes of the topic of the feedback. If you and your manager disagree on the outcomes, that's where you should start shoring up your mutual understanding. If you think you delivered a project exactly how your manager expected you to, and your manager gives you feedback that indicates that they think that it didn't go well, you two need to start by understanding what was discrepant in expectations before discussing the feedback itself.
@@ -105,11 +106,11 @@ First, if it's not clear, have a conversation about the outcomes of the topic of
 This is where feedback that you disagree with from your manager can actually be an incredibly useful tool. It helps to level-set between you and your manager on where they apply scrutiny and where you can rise to meet it.
 
 #### 2. Ask "how can I prove you wrong?"
-Next, you want to move the conversation to action that holds both parties accountable. By agreeing on actions you can take to improve on the behavior in the feedback, you are doing a few things:
+Next, you want to move the conversation to action in a way that holds both parties accountable. By agreeing on actions you can take to improve on the behavior in the feedback, you are doing a few things:
 
 1. Furthering your understanding of your manager's feedback by determining what would and wouldn't address it
-1. Giving your manager a specific heuristic to evaluate your performance by.
-1. Giving you an informal "contract" that you can hold your manager to in case they come back with the same feedback next time.
+1. Giving your manager a specific heuristic to evaluate your performance by
+1. Giving you an informal "contract" that you can hold your manager to in case they come back with the same feedback next time
 
 Critically, the last one prevents you from receiving the same feedback twice. I've had managers that come back with the dreaded "yeah, but" when revisiting previous feedback. In other words, I did what I thought would address the feedback, but it wasn't enough and they came up with something else to give me feedback about. If I had an agreement with my manager on how I could prove them wrong, I would have been able to call their bullshit and use our agreement to support my position that I'm doing everything that was asked of me.
 
@@ -121,6 +122,6 @@ Then make sure you have evidence of you acting on what you agreed to. You can ev
 #### But what if their feedback got in the way of my promotion?
 It shouldn't. I owe this site a doc on my promotion philosophy, but a quick tl;dr is that you should always know how far away you are from your next promotion (up until you're very high up in levels, then it begins to shift to an opportunity model). Feedback is the tool that I use along your growth in your current level to push you to reach the next level, not the tool that holds you back. If you think you're eligible for a promotion and you don't get it, that's a specific conversation to have with your manager.
 
-And if you use #2, you should be able to negotiate with your manager a concrete set of actions you can take to make promotion the next cycle.
+And if you use #2, you should be able to negotiate with your manager a concrete set of actions you can take to make promotion in the next cycle.
 
 [^1]: "Let me Google that for you"
