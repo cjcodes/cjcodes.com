@@ -13,12 +13,18 @@ markup:
 
 menu:
   main:
+    - identifier: github
+      name: questions + requests
+      url: https://github.com/cjcodes/cjcodes.com/issues
+      weight: -300
     - identifier: posts
       name: posts
       url: /posts/
+      weight: -200
     - identifier: manager-docs
       name: manager docs
       url: /manager-docs/
+      weight: -100
 
 params:
   hideSummary: true
