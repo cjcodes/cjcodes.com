@@ -48,8 +48,8 @@ While Bob may want to react with "that wasn't my intent" and provide context, he
 ### SLA
 Feedback should be given while the context is fresh in both the giver and receiver's minds. As a general rule, therefore, I try to provide all feedback **within 2 business days** of the *situation* whenever possible (factoring out PTO, async communication, and other factors). After 2 days, the giver may have moved on or even lost the motivation to provide the feedback in the first place.
 
-## Receiving Feedback
-Giving feedback is only half of the equation. You also need to be good at *receiving* feedback. I have some notes on this below, but Hays has a [good primer](https://social.hays.com/2019/02/04/receiving-feedback-work/) on the subject.
+## Receiving Developmental Feedback
+Giving feedback is only half of the equation. You also need to be good at *receiving* feedback. This section outlines some standards for receiving developmental feedback (the kind not related to your job performance) from your peers. Hays also has a [good primer](https://social.hays.com/2019/02/04/receiving-feedback-work/) on the subject.
 
 The act of delivering feedback is stressful. Your response to the feedback will be coming at a moment when the giver is at a very vulnerable place: they're taking a big risk to give you feedback. Which leads to my first rule of receiving feedback:
 
