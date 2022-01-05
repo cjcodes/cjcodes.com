@@ -4,6 +4,7 @@ date: 2021-12-28T11:33:56-08:00
 draft: false
 ShowToc: true
 changelog:
+- 2022-01-05: Clarified that the "Receiving Feedback" section is about developmental, not performance, feedback.
 - 2022-01-05: Fixed some grammar issues and an off-by-one counting error in a list.
 - 2021-12-28: Created.
 ---
