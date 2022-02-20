@@ -1,0 +1,11 @@
+tasks:
+  - name: Install and run Hugo
+    before: |
+      brew install hugo
+    init: |
+      echo "Hugo version: `hugo version`"
+    command: |
+      hugo server -D -F --baseUrl $(gp url 1313) --liveReloadPort=443 --appendPort=false --bind=0.0.0.0
+ports:
+  - port: 1313
+    onOpen: open-preview
