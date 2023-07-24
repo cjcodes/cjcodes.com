@@ -37,8 +37,6 @@ params:
   socialIcons:
     - name: linkedin
       url: 'https://linkedin.com/in/cjcodes'
-    - name: twitter
-      url: 'https://twitter.com/cjcodes'
 
   homeInfoParams:
     Title: ''
