@@ -33,7 +33,6 @@ params:
   hideFooter: true
   mainSections:
 
-
   socialIcons:
     - name: linkedin
       url: 'https://linkedin.com/in/cjcodes'
@@ -45,11 +44,11 @@ params:
 
       ===
 
-      - software engineer turned manager
+      - software engineer turned manager turned architect
       &nbsp;&nbsp;[twilio](https://twilio.com)
 
       - technical strategist &nbsp;&nbsp;[whole whale](https://wholewhale.com)
 
       - founding cto &nbsp;&nbsp;[crisis text line](https://crisistextline.org)
-      
+
       - lead drupal dev + manager &nbsp;&nbsp;[dosomething.org](https://dosomething.org)
